@@ -1,0 +1,24 @@
+.ta{
+	color:blue;
+}
+#first{
+	background-color:gray;
+	float:right;
+	
+}
+
+body{
+	
+	background-image:url("https://img.freepik.com/premium-vector/apple-seamless-background-repeating-pattern-wallpaper-background-cute-seamless-pattern-background_42349-850.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+span{
+	display:block;
+}
+button{
+	background-color:33FFFF;
+	position:fixed;
+	right:100px;
+	top:100px;
+}
